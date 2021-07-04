@@ -55,22 +55,53 @@ h1{
 }
 
 .full {
-    font-size: 37px;
+    font-size: 38px;
     font-weight: 600;
 }
 
 .xpbox{
      width: 40%;
      padding-left: 7% ;
-     box-shadow: 15px 20px 50px rgb(27, 169, 194);
+    
      margin-left: 5%;
      margin-right: 5%;
      padding-right: 5%;
-     
+    
 }
 
 .xp{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+
+#b1{
+    border-radius: 2%;
+    -webkit-border-radius: 2%;
+    -moz-border-radius: 2%;
+    -ms-border-radius: 2%;
+    -o-border-radius: 2%;
+    border-left: solid 9px;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    box-shadow: 15px 20px 50px rgb(27, 169, 194);
+}
+
+#b2{
+    border-radius: 2%;
+    -webkit-border-radius: 2%;
+    -moz-border-radius: 2%;
+    -ms-border-radius: 2%;
+    -o-border-radius: 2%;
+    border-left: solid 9px;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+    box-shadow: 15px 20px 50px rgb(168, 5, 5);
+    
+    
+}
+
+.f{
+    text-align: center;
+    margin-top: 8%;
 }
