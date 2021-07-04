@@ -17,8 +17,7 @@ section{
 
 .half{
       width: 50%;
-      text-align: justify;
-      
+      text-align: ;
       padding-left: 7%;
 }
 
@@ -44,4 +43,12 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
+}
+
+.dream{
+    margin-top: 8%;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-right: 8%;
 }
