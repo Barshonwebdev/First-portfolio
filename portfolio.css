@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.high{
+    color: rgb(0, 247, 255);
+}
+
+section{
+    display: flex;
+}
+
+.half{
+      width: 50%;
+      text-align: justify;
+      
+      padding-left: 7%;
+}
+
+.half img{
+    width: 85%;
+}
+
+.hire{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(19, 208, 233), rgb(14, 211, 57));
+    padding: 2% 4%;
+    color: rgb(252, 248, 248);
+    border-radius: 9%;
+    -webkit-border-radius: 9%;
+    -moz-border-radius: 9%;
+    -ms-border-radius: 9%;
+    -o-border-radius: 9%;
+    font-weight: 700;
+    
+}
+
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
