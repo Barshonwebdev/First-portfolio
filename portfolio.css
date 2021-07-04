@@ -55,14 +55,14 @@ h1{
 }
 
 .full {
-    font-size: 38px;
+    font-size: 32px;
     font-weight: 600;
 }
 
 .xpbox{
      width: 40%;
      padding-left: 7% ;
-    
+     height: 450px;
      margin-left: 5%;
      margin-right: 5%;
      padding-right: 5%;
