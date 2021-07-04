@@ -11,13 +11,13 @@ h1{
     color: rgb(0, 247, 255);
 }
 
-section{
+.flexi{
     display: flex;
 }
 
 .half{
       width: 50%;
-      text-align: ;
+      
       padding-left: 7%;
 }
 
@@ -52,4 +52,13 @@ section{
     background-repeat: no-repeat;
     padding-right: 8%;
     
+}
+
+.full {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.pro {
+    color: rgb(0, 183, 255);
 }
