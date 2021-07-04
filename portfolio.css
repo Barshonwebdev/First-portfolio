@@ -55,10 +55,22 @@ h1{
 }
 
 .full {
-    font-size: 40px;
+    font-size: 37px;
     font-weight: 600;
 }
 
-.pro {
-    color: rgb(0, 183, 255);
+.xpbox{
+     width: 40%;
+     padding-left: 7% ;
+     box-shadow: 15px 20px 50px rgb(27, 169, 194);
+     margin-left: 5%;
+     margin-right: 5%;
+     padding-right: 5%;
+     
+}
+
+.xp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
